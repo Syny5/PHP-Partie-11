@@ -1,0 +1,16 @@
+/* Titre Jumbotron */
+.display-3{
+  color: white;
+  font-weight: bold;
+}
+
+/* Énoncé de l'exercice */
+.lead{
+  font-weight: bold;
+}
+
+/* Jumbotron */
+.jumbotron{
+  background-color: #80d0d0;
+  border-radius: 1%;
+}
